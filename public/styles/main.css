@@ -7,3 +7,15 @@ height: 50px;
 width: 200px;
 border-radius : 0px;
 }
+
+.p{
+	width:80vw;
+	word-wrap:break-word;
+}
+
+body {
+  background-image: "AoE.jpg";
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
